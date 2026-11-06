@@ -1,8 +1,6 @@
 ## ¡Hola! I'm <img src="https://raw.githubusercontent.com/byuwur/byuwur.github.io/main/img/logo.png" alt="BONYUR" height="32" align="top" /> `@byUwUr`
 
-I create useful things.
-
-I like keeping things simple, solving real problems, and making people's lives a little easier.
+**I create useful things.** I like keeping things simple, solving real problems, and making people's lives a little easier.
 
 <a href="https://github.com/byuwur/spa.php">SPA.php</a> ·
 <a href="https://byuwur.github.io/spa.js/">SPA.js</a> ·
@@ -13,11 +11,5 @@ I like keeping things simple, solving real problems, and making people's lives a
 <a href="https://byuwur.github.io/easy-code-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-code-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> CODE</a> ·
 <a href="https://byuwur.github.io/easy-json-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-json-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> JSON</a> ·
 <a href="https://byuwur.github.io/easy-csv-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-csv-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> CSV</a> ·
-<!--
-<a href="https://byuwur.github.io/easy-diff-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-diff-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> DIFF</a> ·
-<a href="https://byuwur.github.io/easy-log-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-log-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> LOG</a> ·
-<a href="https://byuwur.github.io/easy-xml-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-xml-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> XML</a> ·
-<a href="https://byuwur.github.io/easy-yaml-viewer/"><img src="https://raw.githubusercontent.com/byuwur/easy-yaml-viewer/main/assets/favicon.png" height="24" align="top" alt="" /> YAML</a>
--->
 
 <a href="https://byuwur.co">byuwur.co</a> · <a href="https://youtube.com/byuwur">YouTube</a> · <a href="https://twitch.tv/byuwur">Twitch</a> · <a href="https://linkedin.com/in/atrujillomateus/">LinkedIn</a>
