@@ -1,4 +1,4 @@
-## ¡Hola! I'm <img src="https://raw.githubusercontent.com/byuwur/byuwur.github.io/main/img/logo.png" alt="BONYUR" height="32" align="top" /> `@byUwUr`
+## ¡Hola! I'm <a href="https://byuwur.co"><img src="https://raw.githubusercontent.com/byuwur/byuwur.github.io/main/img/logo.png" alt="BONYUR" height="32" align="top" /></a> `@byUwUr`
 
 **I create useful things.** I like keeping things simple, solving real problems, and making people's lives a little easier.
 
